@@ -1,0 +1,18 @@
+set_io A[0] A5           // INPUT FOR A
+set_io A[1] B7           // INPUT FOR A
+set_io A[2] A2           // INPUT FOR A
+set_io A[3] B6           // INPUT FOR A
+
+set_io B[0] C3           // INPUT FOR B
+set_io B[1] B3           // INPUT FOR B
+set_io B[2] B4           // INPUT FOR B
+set_io B[3] B5           // INPUT FOR B
+
+set_io C[0] D8           // OUTPUT C
+set_io C[1] B8           // OUTPUT C
+set_io C[2] B9           // OUTPUT C
+set_io C[3] A9           // OUTPUT C
+
+set_io D[0] B10          // OPERATION SELECTION
+set_io D[1] A10          // OPERATION SELECTION
+set_io E    B11          // CARRY
